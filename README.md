@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Alhaj-Alnaas 
-- 👀 I’m interested in asp.net
-- 🌱 I’m currently learning entity Framework core
+Alhaj Alnaas , UX designer & full stack developer
 
 
 <!---
